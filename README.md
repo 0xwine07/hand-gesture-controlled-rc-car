@@ -63,7 +63,7 @@ Detailed documentation is available in the `docs/` directory:
 
 ## Demonstration and Debugging
 
-System demonstrations and debugging evidence—including gesture-based wheel movement, wireless data transmission, and resolved communication issues—are documented in the repository **Issues** section.
+System demonstrations and debugging evidence, including gesture-based wheel movement, wireless data transmission, and resolved communication issues—are documented in the repository **Issues** section.
 
 Refer to the issue titled  
 **“Demo & Debug Log: Gesture Control and Wireless Data Transmission”** for videos and observations.
